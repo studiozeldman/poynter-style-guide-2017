@@ -1,0 +1,35 @@
+
+Fonts actively used in this project
+-----------------------------------
+
+Font name       :   Helvetica Neue eText Pro
+Font provider   :   fonts.com
+
+
+
+******************************************************************************Font name       :   adelle-sans
+Font provider   :   typekit
+
+
+
+******************************************************************************Font name       :   mf-helvetica-neue-10263
+Font provider   :   myfonts
+
+
+
+******************************************************************************Font name       :   Adelle W01 ExtraBold
+Font provider   :   fonts.com
+
+
+
+******************************************************************************Font name       :   Adelle SansW01-Regular
+Font provider   :   fonts.com
+
+
+
+******************************************************************************
+
+
+
+
+Created by Typecast on 2017/02/01.
